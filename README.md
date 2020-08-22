@@ -14,4 +14,4 @@ Options:
 - Everyone Putin Skin: Changes all other players skin to a putin skin
 - Music: Plays the WidePutin music on loop (turning off vanilla music is recommended)
 
-The putin is from [here](https://minecraft.novaskin.me/skin/2877543094/putin)
+The putin skin is from [here](https://minecraft.novaskin.me/skin/2877543094/putin)
