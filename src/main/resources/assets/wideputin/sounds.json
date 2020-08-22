@@ -1,0 +1,11 @@
+{
+  "putin_music": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "wideputin:putin_music",
+        "stream": true
+      }
+    ]
+  }
+}

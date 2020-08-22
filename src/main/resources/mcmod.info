@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wideputin",
+  "name": "Wide Putin Mod",
+  "description": "W I D E",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DJtheRedstoner"],
+  "credits": "Moulberry, for showing me how to do this.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
